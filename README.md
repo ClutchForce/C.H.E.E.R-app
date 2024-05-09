@@ -1,19 +1,17 @@
-# C.H.E.E.R Web-app
-
-<p align="left">
+# 🎉 C.H.E.E.R Web-app
+<p align="center">
   <img src="./client/src/components/assets/cheer_connections_nav.png" alt="C.H.E.E.R Logo" width="300"/> <!-- You can adjust the width as needed -->
 </p>
-
 An accessible web application designed to empower individuals with intellectual disabilities and their caretakers.
 
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://se3350-group-18-415915.uc.r.appspot.com/)
 [![Video Demo](https://img.shields.io/badge/watch-demo%20video-red.svg)](https://www.youtube.com/watch?v=hOPGJwfkCqE)
 
-## Description
+## 📝 Description
 
 The C.H.E.E.R Web-app is a platform that enhances the daily activities of individuals with intellectual disabilities through a user-friendly online environment. This web app not only simplifies the management of routine tasks but also supports caretakers in their administrative duties.
 
-## Features
+## 🌟 Features
 
 - **Accessibility Focused:** Screen reader friendly interface, high contrast mode, and simple navigation.
 - **Authentication System:** Robust login with Google integration for easy access and secure user management.
@@ -26,7 +24,7 @@ The C.H.E.E.R Web-app is a platform that enhances the daily activities of indivi
 - **Photo Gallery:** Integrated with Google Photos for easy content management.
 - **Payroll Calculator:** Calculate and export payroll details to Excel.
 
-## Getting Started
+## 🚀 Getting Started
 
 To use the C.H.E.E.R Web-app, follow these steps:
 
@@ -34,11 +32,11 @@ To use the C.H.E.E.R Web-app, follow these steps:
 2. Visit [C.H.E.E.R Web-app](https://se3350-group-18-415915.uc.r.appspot.com/).
 3. Click on "Log In With Google" to authenticate using your Google account.
 
-## Demo
+## 🎬 Demo
 
 Watch our [Demo Video](https://www.youtube.com/watch?v=hOPGJwfkCqE) to see the app in action.
 
-## User Manuals
+## 📚 User Manuals
 
 ### Admin Guide
 
@@ -51,12 +49,12 @@ Watch our [Demo Video](https://www.youtube.com/watch?v=hOPGJwfkCqE) to see the a
 
 - [Clocking in and Out of Shift](./User_Manual/Teacher/Clocking_in_and_out_of_shift_.pdf)
 
-## Feedback
+## 💬 Feedback
 
 - **Sprint 1:** "This group seems to have a good understanding of the key required components. I am glad they included their next steps to help us visualise what's to come. They also uniquely decided to already showcase their website's usability on multiple device types. This will be of great use for our mobile users."
 - **Release 1:** "Your website is looking really nice! The use of accessibility features is wonderful to see (loads of understandable icons and text to speech). The website seems to have smooth functionality and all of the must have functions are very clean and easy to navigate. Well done!"
 
-## Contributors
+## 👥 Contributors
 
 - Joel Payppara Shibu - [GitHub](https://github.com/jpayippa)
 - Hassan Amin - [GitHub](https://github.com/habid22)
