@@ -53,8 +53,8 @@ Watch our [Demo Video](https://www.youtube.com/watch?v=hOPGJwfkCqE) to see the a
 
 ## Feedback
 
-- **Sprint 1:** "This group seems to have a good understanding of the key required components..."
-- **Release 1:** "Your website is looking really nice! The use of accessibility features is wonderful to see..."
+- **Sprint 1:** "This group seems to have a good understanding of the key required components. I am glad they included their next steps to help us visualise what's to come. They also uniquely decided to already showcase their website's usability on multiple device types. This will be of great use for our mobile users."
+- **Release 1:** "Your website is looking really nice! The use of accessibility features is wonderful to see (loads of understandable icons and text to speech). The website seems to have smooth functionality and all of the must have functions are very clean and easy to navigate. Well done!"
 
 ## Contributors
 
